@@ -1,0 +1,84 @@
+2023-05-07 10:00:17,059 - tasks - INFO - User data successfully retrieved
+2023-05-07 10:10:00,054 - tasks - INFO - Successfully connected to postgres database
+2023-05-07 10:10:00,065 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-07 10:10:00,066 - tasks - INFO - Successfully retrieved total time spent
+2023-05-07 10:10:00,068 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-07 10:10:00,071 - tasks - INFO - Successfully retrieved top artists
+2023-05-07 10:10:01,305 - tasks - INFO - Successfully sent the mail
+2023-05-08 10:00:01,073 - tasks - INFO - User data successfully retrieved
+2023-05-08 10:10:00,061 - tasks - INFO - Successfully connected to postgres database
+2023-05-08 10:10:00,092 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-08 10:10:00,092 - tasks - INFO - Successfully retrieved total time spent
+2023-05-08 10:10:00,092 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-08 10:10:00,092 - tasks - INFO - Successfully retrieved top artists
+2023-05-08 10:10:01,559 - tasks - INFO - Successfully sent the mail
+2023-05-09 10:29:19,201 - tasks - INFO - User data successfully retrieved
+2023-05-09 10:29:48,236 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 10:29:48,252 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 10:29:48,254 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 10:29:48,257 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 10:29:48,259 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 10:29:49,598 - tasks - INFO - Successfully sent the mail
+2023-05-09 12:34:35,403 - tasks - INFO - User data successfully retrieved
+2023-05-09 12:35:40,312 - tasks - INFO - User data successfully retrieved
+2023-05-09 12:36:32,033 - tasks - INFO - User data successfully retrieved
+2023-05-09 12:37:22,103 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 12:37:22,131 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 12:37:22,136 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 12:37:22,140 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 12:37:22,140 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 12:37:22,140 - tasks - ERROR - Error while sending mail: 'module' object is not callable
+2023-05-09 12:42:21,460 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 12:42:21,476 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 12:42:21,476 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 12:42:21,487 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 12:42:21,487 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 12:42:21,492 - tasks - ERROR - Error while sending mail: 'module' object is not callable
+2023-05-09 12:46:50,675 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 12:46:50,692 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 12:46:50,692 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 12:46:50,703 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 12:46:50,707 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 12:46:50,712 - tasks - ERROR - Error while sending mail: 'module' object is not callable
+2023-05-09 12:49:23,318 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 12:49:23,334 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 12:49:23,337 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 12:49:23,340 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 12:49:23,346 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 12:49:23,355 - tasks - ERROR - Error while sending mail: 'module' object is not callable
+2023-05-09 13:14:38,964 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 13:14:38,996 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 13:14:39,000 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 13:14:39,004 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 13:14:39,012 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 13:14:39,012 - tasks - ERROR - Error while sending mail: 'module' object is not callable
+2023-05-09 13:17:39,979 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 13:17:40,000 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 13:17:40,003 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 13:17:40,010 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 13:17:40,014 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 13:17:40,024 - tasks - ERROR - Error while sending mail: 'module' object is not callable
+2023-05-09 13:29:04,609 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 13:29:04,628 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 13:29:04,630 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 13:29:04,638 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 13:29:04,639 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 13:29:06,543 - tasks - INFO - Successfully sent the mail
+2023-05-09 13:29:14,801 - tasks - INFO - User data successfully retrieved
+2023-05-09 13:29:57,690 - tasks - ERROR - Error while loading data into postgres tables: An error occurred while calling o143.save
+2023-05-09 13:35:24,292 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 13:35:24,309 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 13:35:24,312 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 13:35:24,319 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 13:35:24,323 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 13:35:25,654 - tasks - INFO - Successfully sent the mail
+2023-05-09 13:35:34,629 - tasks - INFO - User data successfully retrieved
+2023-05-09 13:36:43,562 - tasks - INFO - User data successfully retrieved
+2023-05-09 13:37:44,966 - tasks - INFO - Successfully connected to postgres database
+2023-05-09 13:37:45,007 - tasks - INFO - Successfully retrieved top 5 songs listened wrt to minutes played
+2023-05-09 13:37:45,007 - tasks - INFO - Successfully retrieved total time spent
+2023-05-09 13:37:45,023 - tasks - INFO - Successfully retrieved top 5 songs and artists
+2023-05-09 13:37:45,023 - tasks - INFO - Successfully retrieved top artists
+2023-05-09 13:37:46,132 - tasks - INFO - Successfully sent the mail
+2023-05-09 13:37:46,565 - tasks - INFO - User data successfully retrieved
+2023-05-09 13:38:03,283 - tasks - ERROR - Error while loading data into postgres tables: An error occurred while calling o373.save

@@ -1,0 +1,7 @@
+pyspark
+psycopg2-binary
+spotipy
+tabulate
+dotenv
+celery
+findspark
